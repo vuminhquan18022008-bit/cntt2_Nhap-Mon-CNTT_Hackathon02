@@ -3,7 +3,7 @@
 - **Mã đề:** 08
 - **Họ tên:Vũ Minh Quân**
 - **Lớp:CNTT2**
-- **Link repository:**
+- **Link repository:https://github.com/vuminhquan18022008-bit/cntt2_Nhap-Mon-CNTT_Hackathon02.git**
 - **Hệ điều hành (Windows/macOS):Window**
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
